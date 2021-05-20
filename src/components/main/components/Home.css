@@ -1,0 +1,35 @@
+.home{
+    /* padding-top: 200px; */
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(239, 255, 249) !important ;
+    overflow: hidden;
+}
+
+.border__search{
+    border: 2px solid rgb(5, 130, 134) !important;
+    border-radius: 15px !important ;
+}
+
+.button__search{
+    background-color: rgb(5, 130, 134) !important ;
+    color: white !important;
+    width: 100px;
+    border-top-right-radius: 13px !important;
+    border-bottom-right-radius: 13px !important;
+}
+
+.options__color{
+    color: rgb(5, 130, 134) !important;
+}
+
+.heading_h1{
+    font-size: 55px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+/* .img__img{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png);
+    background-size: cover;
+} */

@@ -1,0 +1,11 @@
+.rightSide{
+    overflow: hidden;
+}
+
+/* .rightSide__span{
+    font-size: 20px;
+    font-weight: bold;
+} */
+.rightSide__show{
+    margin: 20px;
+}

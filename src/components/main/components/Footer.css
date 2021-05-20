@@ -1,0 +1,10 @@
+.footer{
+    padding-top: 70px !important;
+    padding-bottom: 70px !important;
+    border-top: 1px solid lightgray;
+}
+
+.social__links{
+    color: rgb(5, 130, 134) !important ;
+    background-color: rgb(239, 255, 249) !important ;
+}
